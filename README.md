@@ -1,6 +1,6 @@
 ## 这是一个机器学习与量化交易相结合的例子<br>
 主要包含如下内容：<br>
-1.从tushare或者yahoo finance上爬下来的数据写成的csv文件<br>
+1.从tushare或者yahoo finance上爬股票数据存储起来<br>
 2.pandas股票特征信息提取以数据清洗<br>
 3.利用sk-learn机器学习模型对特征做行训练<br>
 4.模型调优的一般方法<br>
